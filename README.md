@@ -6,9 +6,9 @@ This project aims to compare RFE and GA feature selection, with evaluation perfo
 
 The source dataset above is a raw dataset from research in Wisconsin, then for the easy-to-read file it has been made into csv in the download dataset.
 
-#### _Framework for website: "Streamlit"_
-#### _Build supervised algorithm and feature selection: "Google Collab"_
-#### _Python libraries that are used: "pandas, numpy, pickle, sklearn"_
+#### Framework for website: "Streamlit"
+#### Build supervised algorithm and feature selection: "Google Collab"
+#### Python libraries that are used: "pandas, numpy, pickle, sklearn"
 
 ## HOW TO RUNNING
 1. open terminal and type "python -m streamlit run app.py" in Visual Studio Code
