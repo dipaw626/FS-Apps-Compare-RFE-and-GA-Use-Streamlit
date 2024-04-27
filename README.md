@@ -1,5 +1,7 @@
 # Comparison of Genetic Algorithm and Recursive Feature Elimination on High Dimensional Data with Streamlit
-This project aims to compare RFE and GA feature selection, with evaluation performance using 6 supervised algorithms namely Logistic Regression, K-Nearest Neighbors, Support Vector Machines, Random Forest, AdaBoost, and Naive Bayes on a dataset called WDBC.
+This project aims to compare RFE and GA feature selection, with evaluation performance using 6 supervised algorithms namely Logistic Regression, K-Nearest Neighbors, Support Vector Machines, Random Forest, AdaBoost, and Naive Bayes on a dataset called WDBC. 
+
+This wdbc dataset is a reference for detecting whether breast cancer is benign or malignant. For the specifications of the place, which is in the Wisconsin area
 
 ### Dataset Source : https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 ### Dataset Download : https://bit.ly/DatasetAndAlgorithm
