@@ -11,7 +11,7 @@ The source dataset above is a raw dataset from research in Wisconsin, then for t
 #### Python libraries that are used: "pandas, numpy, pickle, sklearn"
 
 ## HOW TO RUNNING
-1. open terminal and type "python -m streamlit run app.py" in Visual Studio Code
+1. open terminal and type "python -m streamlit run app.py" or "streamlit run app.py" in Visual Studio Code
 2. the web auto directly to open in browser or if not, just click the Local URL.
 3. Input the dataset in Input CSV, after that click Classification section
 4. Input all boundaries like data split and others, and choose Features Selection between RFE or GA to perform classification
